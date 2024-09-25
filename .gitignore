@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore local environment settings
+.env
+
+# Ignore local PDF and CSV files
+PDF Files/
+UNFILTERED CSV FILES/
+FINAL CSV FILES/
+
+# Ignore any other temporary files
+*.log
+*.tmp
